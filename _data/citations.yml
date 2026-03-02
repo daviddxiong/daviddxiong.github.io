@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-03-02'
 papers:
   4VL__W0AAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -34,7 +34,7 @@ papers:
     title: 'Risk factors and timing of subsequent cutaneous squamous cell carcinoma in patients with cutaneous squamous cell carcinoma: a retrospective cohort study'
     year: '2021'
   4VL__W0AAAAJ:9ZlFYXVOiuMC:
-    citations: 34
+    citations: 37
     title: 'Delays in the surgical treatment of melanoma are associated with worsened overall and melanoma-specific mortality: a population-based analysis'
     year: '2022'
   4VL__W0AAAAJ:IWHjjKOFINEC:
@@ -42,7 +42,7 @@ papers:
     title: "Racial\u2013Ethnic, Education, and Socioeconomic Differences in the Treatment of Head and Neck Melanoma in situ: A Surveillance Epidemiology and End Results Population-Based Analysis"
     year: '2023'
   4VL__W0AAAAJ:IjCSPb-OGe4C:
-    citations: 46
+    citations: 45
     title: Prognostic value of sentinel lymph node biopsy according to Breslow thickness for cutaneous melanoma
     year: '2018'
   4VL__W0AAAAJ:KlAtU1dfN6UC:
@@ -50,7 +50,7 @@ papers:
     title: 'Predictors Of Locoregional And Distant Recurrence In HPV-Related Oropharyngeal Cancer Patients Treated With Cisplatin-Based Chemoradiation: A Recursive Partitioning Analysis'
     year: '2020'
   4VL__W0AAAAJ:L8Ckcad2t8MC:
-    citations: 0
+    citations: 1
     title: 'Factors and outcomes associated with treatment delays in rare cutaneous adnexal tumors: A population-based retrospective cohort study'
     year: '2024'
   4VL__W0AAAAJ:LkGwnXOMwfcC:
@@ -62,7 +62,7 @@ papers:
     title: 'The impact of delay in time to surgical treatment of Merkel cell carcinoma on overall survival and disease-specific survival: a population-based analysis'
     year: '2022'
   4VL__W0AAAAJ:MXK_kJrjxJIC:
-    citations: 13
+    citations: 14
     title: Locoregional and distant recurrence for HPV-associated oropharyngeal cancer using AJCC 8 staging
     year: '2020'
   4VL__W0AAAAJ:Se3iqnhoufwC:
@@ -70,11 +70,11 @@ papers:
     title: "Mohs surgery for SEER registry-captured melanoma in situ and rare cutaneous tumors: comparing national utilization patterns before and after implementation of the affordable \u2026"
     year: '2020'
   4VL__W0AAAAJ:Tyk-4Ss8FVUC:
-    citations: 16
+    citations: 15
     title: Patient-reported allergies predict postoperative outcomes and psychosomatic markers after spine surgery
     year: '2019'
   4VL__W0AAAAJ:ULOm3_A8WrAC:
-    citations: 184
+    citations: 188
     title: "Chi3l1/YKL-40 is controlled by the astrocyte circadian clock and regulates neuroinflammation and Alzheimer\u2019s disease pathogenesis"
     year: '2020'
   4VL__W0AAAAJ:UebtZRa9Y70C:
@@ -86,15 +86,15 @@ papers:
     title: 'Patient selection for de-escalated radiotherapy for early-stage HPV+ oropharynx cancer can be improved by considering smoking cessation: a multi-institution analysis'
     year: '2019'
   4VL__W0AAAAJ:Y0pCki6q_DkC:
-    citations: 173
+    citations: 175
     title: Cell-autonomous regulation of astrocyte activation by the circadian clock protein BMAL1
     year: '2018'
   4VL__W0AAAAJ:YOwf2qJgpHMC:
-    citations: 13
+    citations: 12
     title: Disease progression in cutaneous squamous cell carcinoma patients with satellitosis and in-transit metastasis
     year: '2021'
   4VL__W0AAAAJ:ZeXyd9-uunAC:
-    citations: 4
+    citations: 6
     title: 'Incidence and survival outcomes of dermatofibrosarcoma protuberans from 2000 to 2020: a population-based retrospective cohort analysis'
     year: '2023'
   4VL__W0AAAAJ:Zph67rFs4hoC:
@@ -102,25 +102,29 @@ papers:
     title: A Comparison Of Prognostic Factors For Survival After Distant Metastasis In HPV+ And HPV-Head And Neck Cancers
     year: '2020'
   4VL__W0AAAAJ:_FxGoFyzp5QC:
-    citations: 58
+    citations: 55
     title: Outcomes in intermediate-risk squamous cell carcinomas treated with Mohs micrographic surgery compared with wide local excision
     year: '2020'
   4VL__W0AAAAJ:aqlVkmm33-oC:
-    citations: 25
+    citations: 26
     title: 'Implications of satellitosis or in-transit metastasis in cutaneous squamous cell carcinoma: a prognostic omission in cancer staging systems'
     year: '2022'
   4VL__W0AAAAJ:d1gkVwhDpl0C:
-    citations: 22
+    citations: 23
     title: "Nmnat1 protects neuronal function without altering phospho\u2010tau pathology in a mouse model of tauopathy"
     year: '2016'
   4VL__W0AAAAJ:dhFuZR0502QC:
     citations: 4
-    title: Analysis of Survival Differences Between Cutaneous and Subcutaneous Malignant Peripheral Nerve Sheath Tumors
+    title: Analysis of survival differences between cutaneous and subcutaneous malignant peripheral nerve sheath tumors
     year: '2023'
   4VL__W0AAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: 'Factors Predictive of Overall Survival in Metastatic HPV+ Oropharyngeal Cancer: A Multi-Institutional Study'
     year: '2019'
+  4VL__W0AAAAJ:hFOr9nPyWt4C:
+    citations: 0
+    title: Please let us know how this document benefits you.
+    year: Unknown Year
   4VL__W0AAAAJ:hqOjcs7Dif8C:
     citations: 0
     title: 'Melanoma incidence and survival in patients with myelodysplastic syndrome: A matched cohort population-based study'
@@ -129,9 +133,13 @@ papers:
     citations: 0
     title: 'Patterns of Failure in Head and Neck Cutaneous Squamous Cell Carcinoma Patients with Satellitosis: A Single-Institution Experience'
     year: '2020'
+  4VL__W0AAAAJ:mB3voiENLucC:
+    citations: 17
+    title: "Chi3l1/YKL-40 is controlled by the astrocyte circadian clock and regulates neuroinflammation and Alzheimer\u2019s disease pathogenesis. Sci Transl Med. 2020; 12"
+    year: Unknown Year
   4VL__W0AAAAJ:mVmsd5A6BfQC:
     citations: 11
-    title: "Drosophila muller f elements maintain a distinct set of genomic properties over 40 million years of evolution. G3 (Bethesda). 5: 719\u2013740"
+    title: "Drosophila muller f elements maintain a distinct set of genomic properties over 40 million years of evolution. G3 (Bethesda) 5: 719\u2013740"
     year: '2015'
   4VL__W0AAAAJ:qjMakFHDy7sC:
     citations: 0
@@ -142,11 +150,11 @@ papers:
     title: 'Subcutaneous Panniculitis-Like T-Cell Lymphoma: A Case Report'
     year: '2020'
   4VL__W0AAAAJ:u-x6o8ySG0sC:
-    citations: 116
+    citations: 118
     title: Drosophila Muller F Elements Maintain a Distinct Set of Genomic Properties Over 40 Million Years of Evolution
     year: '2015'
   4VL__W0AAAAJ:u5HHmVD_uO8C:
-    citations: 654
+    citations: 656
     title: Sleep, circadian rhythms, and the pathogenesis of Alzheimer disease
     year: '2015'
   4VL__W0AAAAJ:ufrVoPGSRksC:
