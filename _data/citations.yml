@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-15'
 papers:
   4VL__W0AAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -18,7 +18,7 @@ papers:
     title: 'Identifying an oligometastatic phenotype in HPV-associated oropharyngeal squamous cell cancer: Implications for clinical trial design'
     year: '2021'
   4VL__W0AAAAJ:4TOpqqG69KYC:
-    citations: 1
+    citations: 2
     title: 'Predictors of Recurrence and Survival in High-Stage Primary Cutaneous Squamous Cell Carcinoma: A Recursive Partitioning Analysis'
     year: '2021'
   4VL__W0AAAAJ:5nxA0vEk-isC:
@@ -30,15 +30,15 @@ papers:
     title: 'The impact of the COVID-19 pandemic in 2020 on the diagnosis, treatment, and outcomes of invasive cutaneous melanoma: a retrospective national cohort study'
     year: '2023'
   4VL__W0AAAAJ:8k81kl-MbHgC:
-    citations: 11
+    citations: 12
     title: 'Risk factors and timing of subsequent cutaneous squamous cell carcinoma in patients with cutaneous squamous cell carcinoma: a retrospective cohort study'
     year: '2021'
   4VL__W0AAAAJ:9ZlFYXVOiuMC:
-    citations: 40
+    citations: 41
     title: 'Delays in the surgical treatment of melanoma are associated with worsened overall and melanoma-specific mortality: a population-based analysis'
     year: '2022'
   4VL__W0AAAAJ:IWHjjKOFINEC:
-    citations: 1
+    citations: 2
     title: "Racial\u2013Ethnic, Education, and Socioeconomic Differences in the Treatment of Head and Neck Melanoma in situ: A Surveillance Epidemiology and End Results Population-Based Analysis"
     year: '2023'
   4VL__W0AAAAJ:IjCSPb-OGe4C:
@@ -62,11 +62,11 @@ papers:
     title: 'The impact of delay in time to surgical treatment of Merkel cell carcinoma on overall survival and disease-specific survival: a population-based analysis'
     year: '2022'
   4VL__W0AAAAJ:MXK_kJrjxJIC:
-    citations: 20
+    citations: 21
     title: Locoregional and distant recurrence for HPV-associated oropharyngeal cancer using AJCC 8 staging
     year: '2020'
   4VL__W0AAAAJ:Se3iqnhoufwC:
-    citations: 6
+    citations: 7
     title: "Mohs surgery for SEER registry-captured melanoma in situ and rare cutaneous tumors: comparing national utilization patterns before and after implementation of the affordable \u2026"
     year: '2020'
   4VL__W0AAAAJ:Tyk-4Ss8FVUC:
@@ -74,7 +74,7 @@ papers:
     title: Patient-reported allergies predict postoperative outcomes and psychosomatic markers after spine surgery
     year: '2019'
   4VL__W0AAAAJ:ULOm3_A8WrAC:
-    citations: 202
+    citations: 206
     title: "Chi3l1/YKL-40 is controlled by the astrocyte circadian clock and regulates neuroinflammation and Alzheimer\u2019s disease pathogenesis"
     year: '2020'
   4VL__W0AAAAJ:UebtZRa9Y70C:
@@ -90,11 +90,11 @@ papers:
     title: Cell-autonomous regulation of astrocyte activation by the circadian clock protein BMAL1
     year: '2018'
   4VL__W0AAAAJ:YOwf2qJgpHMC:
-    citations: 12
+    citations: 13
     title: Disease progression in cutaneous squamous cell carcinoma patients with satellitosis and in-transit metastasis
     year: '2021'
   4VL__W0AAAAJ:ZeXyd9-uunAC:
-    citations: 6
+    citations: 7
     title: 'Incidence and survival outcomes of dermatofibrosarcoma protuberans from 2000 to 2020: a population-based retrospective cohort analysis'
     year: '2023'
   4VL__W0AAAAJ:Zph67rFs4hoC:
@@ -154,7 +154,7 @@ papers:
     title: Drosophila Muller F Elements Maintain a Distinct Set of Genomic Properties Over 40 Million Years of Evolution
     year: '2015'
   4VL__W0AAAAJ:u5HHmVD_uO8C:
-    citations: 689
+    citations: 692
     title: Sleep, circadian rhythms, and the pathogenesis of Alzheimer disease
     year: '2015'
   4VL__W0AAAAJ:ufrVoPGSRksC:
