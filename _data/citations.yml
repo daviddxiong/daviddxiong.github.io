@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-24'
 papers:
   4VL__W0AAAAJ:-f6ydRqryjwC:
     citations: 12
-    title: "Cellautonomous regulation of astrocyte activation by the circadian clock protein BMAL1. Cell Rep 25: 1\u20139. e5"
+    title: 'Cell-autonomous regulation of astrocyte activation by the circadian clock protein BMAL1. Cell Rep 25: 1-9. e5'
     year: '2018'
   4VL__W0AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Retrotransposons Are the Major Contributors to the Expansion of the Drosophila ananassae Muller F Element
     year: '2017'
   4VL__W0AAAAJ:3fE2CSJIrl8C:
-    citations: 11
+    citations: 12
     title: 'Identifying an oligometastatic phenotype in HPV-associated oropharyngeal squamous cell cancer: Implications for clinical trial design'
     year: '2021'
   4VL__W0AAAAJ:4TOpqqG69KYC:
@@ -34,7 +34,7 @@ papers:
     title: 'Risk factors and timing of subsequent cutaneous squamous cell carcinoma in patients with cutaneous squamous cell carcinoma: a retrospective cohort study'
     year: '2021'
   4VL__W0AAAAJ:9ZlFYXVOiuMC:
-    citations: 41
+    citations: 43
     title: 'Delays in the surgical treatment of melanoma are associated with worsened overall and melanoma-specific mortality: a population-based analysis'
     year: '2022'
   4VL__W0AAAAJ:IWHjjKOFINEC:
@@ -74,7 +74,7 @@ papers:
     title: Patient-reported allergies predict postoperative outcomes and psychosomatic markers after spine surgery
     year: '2019'
   4VL__W0AAAAJ:ULOm3_A8WrAC:
-    citations: 207
+    citations: 206
     title: "Chi3l1/YKL-40 is controlled by the astrocyte circadian clock and regulates neuroinflammation and Alzheimer\u2019s disease pathogenesis"
     year: '2020'
   4VL__W0AAAAJ:UebtZRa9Y70C:
@@ -86,7 +86,7 @@ papers:
     title: 'Patient selection for de-escalated radiotherapy for early-stage HPV+ oropharynx cancer can be improved by considering smoking cessation: a multi-institution analysis'
     year: '2019'
   4VL__W0AAAAJ:Y0pCki6q_DkC:
-    citations: 187
+    citations: 185
     title: Cell-autonomous regulation of astrocyte activation by the circadian clock protein BMAL1
     year: '2018'
   4VL__W0AAAAJ:YOwf2qJgpHMC:
@@ -102,11 +102,11 @@ papers:
     title: A Comparison Of Prognostic Factors For Survival After Distant Metastasis In HPV+ And HPV-Head And Neck Cancers
     year: '2020'
   4VL__W0AAAAJ:_FxGoFyzp5QC:
-    citations: 59
+    citations: 58
     title: Outcomes in intermediate-risk squamous cell carcinomas treated with Mohs micrographic surgery compared with wide local excision
     year: '2020'
   4VL__W0AAAAJ:aqlVkmm33-oC:
-    citations: 29
+    citations: 30
     title: 'Implications of satellitosis or in-transit metastasis in cutaneous squamous cell carcinoma: a prognostic omission in cancer staging systems'
     year: '2022'
   4VL__W0AAAAJ:d1gkVwhDpl0C:
@@ -121,10 +121,6 @@ papers:
     citations: 0
     title: 'Factors Predictive of Overall Survival in Metastatic HPV+ Oropharyngeal Cancer: A Multi-Institutional Study'
     year: '2019'
-  4VL__W0AAAAJ:hFOr9nPyWt4C:
-    citations: 0
-    title: Please let us know how this document benefits you.
-    year: Unknown Year
   4VL__W0AAAAJ:hqOjcs7Dif8C:
     citations: 0
     title: 'Melanoma incidence and survival in patients with myelodysplastic syndrome: A matched cohort population-based study'
@@ -154,7 +150,7 @@ papers:
     title: Drosophila Muller F Elements Maintain a Distinct Set of Genomic Properties Over 40 Million Years of Evolution
     year: '2015'
   4VL__W0AAAAJ:u5HHmVD_uO8C:
-    citations: 697
+    citations: 704
     title: Sleep, circadian rhythms, and the pathogenesis of Alzheimer disease
     year: '2015'
   4VL__W0AAAAJ:ufrVoPGSRksC:
